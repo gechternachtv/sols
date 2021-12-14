@@ -17,7 +17,7 @@ main{
         margin:auto;
         max-width:1140px;
         display: flex;
-        border-bottom:2px solid var(--white);
+        border-bottom:2px solid #f8ab16;
         padding:10px;
     }
     img{
@@ -43,6 +43,12 @@ nav a {
   text-align: center;
   padding: 1em;
   position: relative;
+}
+@media (min-width:991px){	
+nav a {
+  font-size: 18px;
+  font-weight: 500;
+  }
 }
 
 nav a:hover {

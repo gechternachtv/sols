@@ -18,6 +18,7 @@
         margin:auto;
     }
     img{
-        max-width: 100%;
+        max-width: 902px;
+        width: 100%;
     }
 </style>
