@@ -7,14 +7,14 @@
             name:"The Mountain Season",
             picture:"artistas/mountainseason.jpg",
             desc:``,
-            links:[],
+            links:[{name:"Youtube",href:"https://www.youtube.com/watch?&v=1EmFPY8UkM4"},{name:"Instagram",href:"https://instagram.com/themountainseason"}],
             date:"17/12 - 19h"
         },
         {
             name:"Razamanaz",
-            picture:"",
+            picture:"artistas/razamanaz.jpg",
             desc:``,
-            links:[],
+            links:[{name:"Facebook",href:"https://www.facebook.com/razamanaz.jazrock"}],
             date:"18/12 - 16h"
         },
         {
@@ -128,7 +128,7 @@ Sua música envolve sincretismo, miscigenação e mistura. Bases eletrônicas me
     <h1 class="logo-holder">
         <Logo/>
     </h1>
-
+<!-- 
     <article class="content">
         <h2>Solsti</h2>
 
@@ -136,7 +136,7 @@ Sua música envolve sincretismo, miscigenação e mistura. Bases eletrônicas me
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum adipisci temporibus facere voluptatem cupiditate nesciunt alias, harum hic quaerat pariatur distinctio officia aliquam deleniti veritatis nulla ullam natus dignissimos accusamus.</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum adipisci temporibus facere voluptatem cupiditate nesciunt alias, harum hic quaerat pariatur distinctio officia aliquam deleniti veritatis nulla ullam natus dignissimos accusamus.</p>
 
-    </article>
+    </article> -->
 
     <article>
 
