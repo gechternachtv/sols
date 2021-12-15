@@ -21,6 +21,7 @@ body {
     background-image: url("/assets/Avatar02.png");
     background-repeat: no-repeat;
     background-position: top;
+    background-blend-mode: overlay;
 }
 
 a {

@@ -26,7 +26,6 @@
 
 	<style>
 		main{
-			background:url("/assets/circle.svg");
 			position:relative;
 			overflow: hidden;
 			max-width: 100%;
@@ -50,7 +49,7 @@
 		main:before{
 			content:"";
 			position:absolute;
-			background:var(--yellow);
+			background-image: url("/assets/yellowtil.png");
 			display: block;
 			width:350px;
 			height: 350px;

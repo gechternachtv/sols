@@ -1,6 +1,10 @@
+<script>
+  import Logo from "./Logo.svelte"
+</script>
+
 <main>
     <div class="max-container">
-        <a href="/#/"><img src="/assets/logo_completa02.jpg" alt=""></a>
+        <a class="logo" href="/#/"><Logo/></a>
         <nav>
             <a href="/#/">Programação</a>
             <a href="/#/Convite">Convite</a>
@@ -19,12 +23,14 @@ main{
         display: flex;
         border-bottom:2px solid #f8ab16;
         padding:10px;
+        padding-bottom:0px;
     }
-    img{
+    .logo{
         display:block;
         height: auto;
-        max-width: 50px;
-        margin:auto
+        margin:auto;
+        width: 100%;
+        max-width: 84px;
     }
 
 
