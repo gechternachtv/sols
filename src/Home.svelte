@@ -125,9 +125,10 @@ Sua música envolve sincretismo, miscigenação e mistura. Bases eletrônicas me
 <main>
 
     <h1 class="logo-holder">
+  
         {@html `
-        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="250 222 548 700" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
+        <svg class="logo-home" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	        viewBox="250 222 548 700" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
                 <g>
                     <g>
                         <g>
@@ -379,13 +380,17 @@ Sua música envolve sincretismo, miscigenação e mistura. Bases eletrônicas me
                         transition:all .3s;
                         }
 
-                        svg{
-                            height: 100%;
+                        .logo-home{
+                            height: calc(100vh - 150px);
+                            max-width: 100%;
                         }
                 </style>
         
         `}
+
+
     </h1>
+    
 <!-- 
     <article class="content">
         <h2>Solsti</h2>
@@ -409,6 +414,7 @@ Sua música envolve sincretismo, miscigenação e mistura. Bases eletrônicas me
 
 </main>
 <style>
+
     .logo-holder{
         max-height: calc(100vh - 90px);
         margin:auto;
@@ -473,4 +479,6 @@ Sua música envolve sincretismo, miscigenação e mistura. Bases eletrônicas me
             grid-template-columns:1fr;
         }
     }
+
+
 </style>
