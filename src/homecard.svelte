@@ -73,4 +73,16 @@
             text-decoration:none;
             background-color:var(--purple)
         }
+        .card___content___desc{
+            position: relative;
+        }
+        /* .card___content___desc:before{
+            content:"";
+            display:block;
+            position:absolute;
+            -webkit-box-shadow: inset 0px -49px 19px -14px rgba(0,0,0,0.8);
+            box-shadow: inset 0px -49px 19px -14px hsl(8.2, 100%, 67.1%);
+            width: 100%;
+            height: 100%;
+        } */
     </style>

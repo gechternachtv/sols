@@ -5,42 +5,55 @@
         {
             name:"The Mountain Season",
             picture:"artistas/mountainseason.jpg",
-            desc:``,
-            links:[{name:"Youtube",href:"https://www.youtube.com/watch?&v=1EmFPY8UkM4"},{name:"Instagram",href:"https://instagram.com/themountainseason"}],
+            desc:`Poderia ter sido um quarteto, ter durado apenas um mês, acabado em brigas ou no esquecimento da juventude, mas não foi assim que conteceu. Numa janela pegando fogo (literalmente), em meados de 2011, inspirações fluíam e davam forma ao som peculiar de um trio de amigos, que ao mesmo tempo tentava apagar o pequeno incêndio. A partir daí qualquer um pode prever o que acontece: ensaiar, pagar pra tocar aqui e acolá e, por fim, conseguir (ufa!) custear a gravação do primeiro disco. E foi quase isso mesmo.`,
+            links:[{name:"Spotify",href:"https://open.spotify.com/artist/6TGXyP4UwAIh2Kmk0PPtZe?si=frAldh8ASd2uybP6cktQvw"},{name:"Youtube",href:"https://www.youtube.com/watch?&v=1EmFPY8UkM4"},{name:"Instagram",href:"https://instagram.com/themountainseason"}],
             date:"17/12 - 19h"
         },
         {
             name:"Razamanaz",
             picture:"artistas/razamanaz.jpg",
-            desc:``,
+            desc:`Trio de jazz fusion que adapta classicos do jazz e da Bossa em temas instrumentais jazz fusion`,
             links:[{name:"Facebook",href:"https://www.facebook.com/razamanaz.jazrock"}],
             date:"18/12 - 16h"
         },
         {
             name:"Cris DeLyra",
             picture:"artistas/crisdelyra.jpg",
-            desc:``,
+            desc:`Cris DeLyra é do Rio de Janeiro, músico, compositor, multi-instrumentista, produtor musical, técnico de PA e monitor. Com sua antiga banda, chamada Rizoma, ativa entre 2004 e 2007, gravou um EP autoral com cinco faixas, produzido por Sidney Sohn, onde todas as composições eram suas. Fizeram diversos shows pelo estado do Rio, São Paulo e participaram de um festival internacional de bandas em Portugal. Com o término da mesma, resolveu dar continuidade como solo, onde neste, trabalharia todas as etapas da produção de um álbum`,
             links:[],
             date:"19/12 - 16h"
         },
         {
             name:"Flash",
             picture:"artistas/flash.jpg",
-            desc:` `,
+            desc:` A Flash é uma banda petropolitana de hard rock com trabalho autoral (o álbum The
+Joker está disponível no Spotify). Nascida no final da década de 80, a banda passou
+por várias fases e formações. A proposta da banda é mesclar material próprio a
+covers de Guns ́n Roses, Bon Jovi e outros grandes nomes do hard rock. A Flash
+atualmente é: Fred Simas na bateria, Romulo Silva no baixo, Fausto Lima e Renato
+Leite nas guitarras e Sandro Murta nos vocais.`,
             links:[],
             date:"19/12 - 18h"
         },
         {
             name:"Andre Doninski",
             picture:"artistas/andre.jpg",
-            desc:` `,
-            links:[],
+            desc:` André Doninski é pianista e compositor e desenvolve um trabalho singular e original de música instrumental com forte influência do jazz, da música universal e da popular brasileira. Este show será uma seleção de uma pequena parte do seu enorme acervo que já conta com mais de 200 composições de sua autoria.`,
+            links:[{name:"Youtube",href:"https://youtu.be/f2B6JuCxq8g"}],
             date:"19/12 - 20h"
         },
         {
             name:" Loba & Nega Preto",
-            picture:"",
-            desc:` `,
+            picture:"artistas/nega-e-loba.jpg",
+            desc:`Nega Preto -
+Artista independente e não-binária vinda de Petrópolis, no interior do estado do Rio de
+Janeiro, Nega Preto cria poesias desde a infância e estreou carreira musical em 2011,
+levando suas performances aos palcos ao redor de todo o sudeste do Brasil e mesclando o
+rap a outros ritmos da música preta, como batucada, funk e soul. Além de cantora e poeta,
+Loba -
+Multi-artista autodidata e não-binário. Sempre muito tímido, só depois de ser encorajado por
+amigos da cena do rep petropolitano, começou a se apresentar, e a gravar suas músicas.
+`,
             links:[],
             date:"19/12 - 22h"
         },
@@ -63,7 +76,7 @@ O Grupo conta com 3 artistas da região serrana: Aguiar, Crow e DJ NEW.`,
         {
             name:" Jorge Amorim e Tribo",
             picture:"artistas/jorgeamorim.jpg",
-            desc:` `,
+            desc:`A banda é composta por Lelei, sax alto e soprano, Gustavo Dantas, Guitarra, Thalita Villa Nova, Baixo e Percussão, Belle Nascimento, vóz. A instrumentação, é baseada no contexto das músicas autorais`,
             links:[],
             date:"20/12 - 20h"
         }
@@ -74,7 +87,7 @@ O Grupo conta com 3 artistas da região serrana: Aguiar, Crow e DJ NEW.`,
             desc:`ÀIYÉ é como assina a baterista, cantora, compositora, produtora e artista sonora Larissa Conforto, que lançou em 2020 "Gratitrevas" pela Balaclava Records.
 
 Gravado entre turnês e estradas do Brasil e Portugal, o álbum reúne espiritualidade, ritmos de resistência e experimentação eletrônica em um universo solitário e urgente, cujo show presencial já passou por Lisboa, Nova Iorque, e diversos estados brasileiros.`,
-            links:[{name:"Youtube",href:"https://www.youtube.com/watch?v=KMc9PZxi3-g"}],
+            links:[{name:"Spotify",href:"https://open.spotify.com/album/1gNjkQTj0obUazzMry6CZc?autoplay=true"},{name:"Youtube",href:"https://www.youtube.com/watch?v=KMc9PZxi3-g"}],
             date:"20/12 - 22h"
         }
         ,
@@ -89,7 +102,13 @@ Gravado entre turnês e estradas do Brasil e Portugal, o álbum reúne espiritua
         {
             name:" Kika Notini",
             picture:"artistas/kika.jpg",
-            desc:` `,
+            desc:`Kika Notini
+
+Com muitas referências musicais e bastante originalidade, Kika Notini com sua voz forte e rouca vem contribuir, potencializar e dar visibilidade à nova safra de vozes femininas da música brasileira. 
+
+Junto à banda Nós 4, busca difundir a música original brasileira para além dos produtos de consumo de massa.
+
+O projeto pretende valorizar e divulgar a música autoral, transitando também por diferentes referencias que vão da bossa nova ao jazz, do rock ao eletrônico. `,
             links:[],
             date:"21/12 - 18h"
         }
