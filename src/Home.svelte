@@ -419,7 +419,13 @@ Sua música envolve sincretismo, miscigenação e mistura. Bases eletrônicas me
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum adipisci temporibus facere voluptatem cupiditate nesciunt alias, harum hic quaerat pariatur distinctio officia aliquam deleniti veritatis nulla ullam natus dignissimos accusamus.</p>
 
     </article> -->
-
+<article class="streaming">
+    {@html
+    `
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/INFgoTUZOD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    `
+    }
+</article>
     <article>
 
         <h2>Programação </h2>
@@ -499,5 +505,7 @@ Sua música envolve sincretismo, miscigenação e mistura. Bases eletrônicas me
         }
     }
 
-
+    .streaming{
+        height:90vh;
+    }
 </style>
