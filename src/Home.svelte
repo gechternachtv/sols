@@ -422,7 +422,7 @@ Sua música envolve sincretismo, miscigenação e mistura. Bases eletrônicas me
 <article class="streaming">
     {@html
     `
-    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/CZzcEqSNjyA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/sedkC8pMuF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     `
     }
 </article>
