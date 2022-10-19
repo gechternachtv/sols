@@ -1,3 +1,6 @@
+<script>
+    import {location} from 'svelte-spa-router';
+</script>
 <main>
     <div class="max-container">
         <a class="logo" href="/#/">
@@ -263,8 +266,8 @@
             `}
           </a>
         <nav>
-            <a href="/#/">Programação</a>
-            <a href="/#/Convite">Convite</a>
+            <a class:active="{$location === "/arquivo"}" href="/#/arquivo">Verão 2021</a>
+            <a class:active="{$location === "/"}" href="/#/">Verão 2022</a>
         </nav>
     </div>
 </main>
@@ -331,6 +334,9 @@ nav a::after {
 }
 
 nav a:hover::after {
-  transform: scaleX(1);
+  transform: scaleX(0.5);
+}
+nav a.active::after {
+  transform: scaleX(0.85);
 }
 </style>

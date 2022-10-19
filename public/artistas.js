@@ -1,0 +1,1 @@
+window.location = "https://docs.google.com/forms/d/e/1FAIpQLSez18x8lNYdSdgf1fdngrvL25-jYQkLkfhpdBcmTPa0UacTtA/viewform?vc=0&c=0&w=1&flr=0"
