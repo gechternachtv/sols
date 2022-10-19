@@ -3,7 +3,7 @@
 </script>
 <main>
     <div class="max-container">
-        <a class="logo" href="/#/">
+        <!-- <a class="logo" href="/#/">
           {@html `
             <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
             viewBox="250 222 548 700" style="enable-background:new 0 0 1080 1080;" xml:space="preserve">
@@ -264,7 +264,7 @@
                           </style>
             
             `}
-          </a>
+          </a> -->
         <nav>
             <a class:active="{$location === "/arquivo"}" href="/#/arquivo">Verão 2021</a>
             <a class:active="{$location === "/"}" href="/#/">Verão 2022</a>
@@ -302,6 +302,7 @@ nav {
   margin: auto;
   display: flex;
   flex-wrap: wrap;
+  padding-bottom:10px;
 }
 
 nav a {
