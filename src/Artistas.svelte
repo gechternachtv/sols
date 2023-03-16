@@ -1,6 +1,11 @@
 <h1>Quer se inscrever?</h1>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdvelngEO5NevaavTkY5iAiuxWdFElKXbHDVj0aqGghbPlBkA/viewform?vc=0&c=0&w=1&flr=0">clique aqui</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdvelngEO5NevaavTkY5iAiuxWdFElKXbHDVj0aqGghbPlBkA/viewform?vc=0&c=0&w=1&flr=0">Bandas que ensaiam em Petrópolis</a>
+
+<a href="#" style="pointer-events:none;opacity:0.5">Bandas com ao menos um(a) integrante petropolitano(a) que ensaiam fora de Petrópolis</a>
+
+<a href="#" style="pointer-events:none;opacity:0.5">Bandas de fora de Petrópolis</a>
+
 
 <style>
     *{
@@ -10,15 +15,26 @@
     a{
         display:block;
         color: var(--orange);
-padding: 2px 10px;
+padding: 10px;
 border-radius: 10px;
 margin-top: 20px;
 transition: all .3s;
 margin-right: 4px;
 background: white;
-max-width: 96px;
+width:250px;
+max-width: 76vw;
 margin: auto;
 font-size: 14px;
+margin-top:20px;
+min-height: 7ch;
+display: flex;
+justify-content: center;
+align-items: center;
+    }
+
+    a:hover{
+        text-decoration:none;
+        transform:scale(1.05)
     }
 </style>
 
