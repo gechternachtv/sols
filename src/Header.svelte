@@ -266,8 +266,8 @@
             `}
           </a> -->
         <nav>
-            <a class:active="{$location === "/arquivo"}" href="/#/arquivo">Verão 2021</a>
-            <a class:active="{$location === "/"}" href="/#/">Verão 2022</a>
+            <a class:active="{$location === "/arquivo"}" href="/#/arquivo">Arquivo</a>
+            <a class:active="{$location === "/"}" href="/#/">Inverno 2023</a>
         </nav>
     </div>
 </main>
