@@ -2,7 +2,7 @@
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdvelngEO5NevaavTkY5iAiuxWdFElKXbHDVj0aqGghbPlBkA/viewform?vc=0&c=0&w=1&flr=0">Bandas que ensaiam em Petrópolis</a>
 
-<a href="#" style="pointer-events:none;opacity:0.5">Bandas com ao menos um(a) integrante petropolitano(a) que ensaiam fora de Petrópolis</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdbOUhisWvk9rllKusaAqZrBoxcZOu3Xu4kn8hLRp2v29YkDw/viewform">Bandas com ao menos um(a) integrante petropolitano(a) que ensaiam fora de Petrópolis</a>
 
 <a href="#" style="pointer-events:none;opacity:0.5">Bandas de fora de Petrópolis</a>
 
