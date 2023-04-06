@@ -4,7 +4,7 @@
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdbOUhisWvk9rllKusaAqZrBoxcZOu3Xu4kn8hLRp2v29YkDw/viewform">Bandas com ao menos um(a) integrante petropolitano(a) que ensaiam fora de Petrópolis</a>
 
-<a href="#" style="pointer-events:none;opacity:0.5">Bandas de fora de Petrópolis</a>
+<a href="https://docs.google.com/forms/d/1Fgi6Tg62ovQ5cbYAVfZhIYjJBT5Ib8Ic-dk701K_9tA/viewform">Bandas de fora de Petrópolis</a>
 
 
 <style>
