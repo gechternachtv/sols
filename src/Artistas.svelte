@@ -6,6 +6,7 @@
 
 <a href="https://docs.google.com/forms/d/1Fgi6Tg62ovQ5cbYAVfZhIYjJBT5Ib8Ic-dk701K_9tA/viewform">Bandas de fora de Petrópolis</a>
 
+<a href="https://docs.google.com/forms/u/0/d/1xR2fHWARafwl5euECWYl6EDyGhcr7L1fDPBaSEo55FE/viewform">Apresentações Cênicas</a>
 
 <style>
     *{
