@@ -267,7 +267,7 @@
           </a> -->
         <nav>
             <a class:active="{$location === "/arquivo"}" href="/#/arquivo">Arquivo</a>
-            <a class:active="{$location === "/"}" href="/#/">Inverno 2023</a>
+            <a class:active="{$location === "/"}" href="/#/">Verão 2023</a>
         </nav>
     </div>
 </main>

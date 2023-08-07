@@ -1,12 +1,12 @@
 <h1>Quer se inscrever?</h1>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdvelngEO5NevaavTkY5iAiuxWdFElKXbHDVj0aqGghbPlBkA/viewform?vc=0&c=0&w=1&flr=0">Bandas que ensaiam em Petrópolis</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfWMVKOAYjieet9FOCay3vosWhtAUsZ6Fvppkwg9oLGTYVWmg/viewform">Bandas que ensaiam em Petrópolis</a>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdbOUhisWvk9rllKusaAqZrBoxcZOu3Xu4kn8hLRp2v29YkDw/viewform">Bandas com ao menos um(a) integrante petropolitano(a) que ensaiam fora de Petrópolis</a>
+<a class="soon" href="#">Bandas com ao menos um(a) integrante petropolitano(a) que ensaiam fora de Petrópolis</a>
 
-<a href="https://docs.google.com/forms/d/1Fgi6Tg62ovQ5cbYAVfZhIYjJBT5Ib8Ic-dk701K_9tA/viewform">Bandas de fora de Petrópolis</a>
+<a class="soon" href="#">Bandas de fora de Petrópolis</a>
 
-<a href="https://docs.google.com/forms/u/0/d/1xR2fHWARafwl5euECWYl6EDyGhcr7L1fDPBaSEo55FE/viewform">Apresentações Cênicas</a>
+<a class="soon" href="#">Apresentações Cênicas</a>
 
 <style>
     *{
@@ -36,6 +36,11 @@ align-items: center;
     a:hover{
         text-decoration:none;
         transform:scale(1.05)
+    }
+
+    .soon {
+        pointer-events: none;
+        opacity: 0.5;
     }
 </style>
 
