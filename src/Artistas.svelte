@@ -1,10 +1,10 @@
 <h1>Quer se inscrever?</h1>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfWMVKOAYjieet9FOCay3vosWhtAUsZ6Fvppkwg9oLGTYVWmg/viewform">Bandas que ensaiam em Petrópolis</a>
+<a class="soon" href="https://docs.google.com/forms/d/e/1FAIpQLSfWMVKOAYjieet9FOCay3vosWhtAUsZ6Fvppkwg9oLGTYVWmg/viewform">Bandas que ensaiam em Petrópolis</a>
 
-<a href="https://docs.google.com/forms/d/1uEliajZrDXyFGnsuxgxEJV4NuxAvilWNSC3wLX2rIhI/viewform">Bandas com ao menos um(a) integrante petropolitano(a) que ensaiam fora de Petrópolis</a>
+<a class="soon" href="https://docs.google.com/forms/d/1uEliajZrDXyFGnsuxgxEJV4NuxAvilWNSC3wLX2rIhI/viewform">Bandas com ao menos um(a) integrante petropolitano(a) que ensaiam fora de Petrópolis</a>
 
-<a href="https://docs.google.com/forms/d/1Rdw7nZbXuJbHf0sLv_CEAxu2kq3nsMIJtlxlE8YGV1U/viewform">Bandas de fora de Petrópolis</a>
+<a class="soon" href="https://docs.google.com/forms/d/1Rdw7nZbXuJbHf0sLv_CEAxu2kq3nsMIJtlxlE8YGV1U/viewform">Bandas de fora de Petrópolis</a>
 
 <a class="soon" href="#">Apresentações Cênicas</a>
 
