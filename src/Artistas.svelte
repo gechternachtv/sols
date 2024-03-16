@@ -2,11 +2,8 @@
 
 <a class="" href="https://docs.google.com/forms/d/15n-tQHFPQZ-bqpu0QfDdqNFfRhgqLZBbqqB41eLX3lQ">Bandas que ensaiam em Petrópolis</a>
 
-<a class="soon" href="https://docs.google.com/forms/d/1uEliajZrDXyFGnsuxgxEJV4NuxAvilWNSC3wLX2rIhI/viewform">Bandas com ao menos um(a) integrante petropolitano(a) que ensaiam fora de Petrópolis</a>
+<a class="soon" href="https://viewform">Editais com anuência para execução no Centro de Cultura Raul de Leoni</a>
 
-<a class="soon" href="https://docs.google.com/forms/d/1Rdw7nZbXuJbHf0sLv_CEAxu2kq3nsMIJtlxlE8YGV1U/viewform">Bandas de fora de Petrópolis</a>
-
-<a class="soon" href="#">Apresentações Cênicas</a>
 
 <style>
     *{
